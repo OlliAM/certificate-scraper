@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 from PyPDF2 import PdfReader
+from cache import Cache
 from models import Certificate
 from fetcher import fetch_html
 from docx import Document
@@ -13,30 +14,8 @@ class TwobsvsStrategy(BaseStrategy):
         super().__init__(max_concurrency)
         self.name = "2bsvs"
         self.url = "https://www.2bsvs.org/certificates/valid-certificates/"
-    
-    async def find_certificates(self, session, keywords):
-        html = await self.parse_html(session)
-        relevant_certs = self.get_relevant_certificates(html)
-
-        async def process_cert(cert):
-            async with self.semaphore:
-                cert_text = (await self.extract_certificate_text(session, cert)).lower()
-
-                matched = [kw for kw in keywords if kw.lower() in cert_text]
-
-                if matched:
-                    return {
-                        "url": cert.url,
-                        "name": cert.name,
-                        "products": matched
-                    }
-                return None
-
-        tasks = [process_cert(cert) for cert in relevant_certs]
-        results = await asyncio.gather(*tasks)
-
-        return [r for r in results if r]
-            
+        self.cache = Cache(f"cache/{self.name}.json")
+     
     
     async def parse_html(self, session):
         base_html = await fetch_html(self.url, session)

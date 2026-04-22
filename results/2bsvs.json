@@ -14,10 +14,31 @@
     ]
   },
   {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010293",
+    "name": "AEGEAN OIL S.A.",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
     "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS031229",
     "name": "AGRIOPALE SERVICES",
     "products": [
       "manure"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010298",
+    "name": "ARGO S.A.",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010289",
+    "name": "AVINOIL INDUSTRIAL COMMERCIAL AND MARITIME OIL COMPANY SINGLE MEMBER",
+    "products": [
+      "biodiesel"
     ]
   },
   {
@@ -32,6 +53,41 @@
     "name": "BioQuercy",
     "products": [
       "manure"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS031252",
+    "name": "CARGILL INCORPORATED - TRADING OFFICE",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010255",
+    "name": "CARGILL NV",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010345",
+    "name": "CETRACORE-JETOIL S.A.",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010421",
+    "name": "CORAL PRODUCTS AND TRADING",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010294",
+    "name": "CORAL S.A",
+    "products": [
+      "biodiesel"
     ]
   },
   {
@@ -56,6 +112,20 @@
     ]
   },
   {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010290",
+    "name": "ELINOIL S.A.",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010064",
+    "name": "EXPUR SA",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
     "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS050045",
     "name": "FERTIDISTRIB",
     "products": [
@@ -70,10 +140,87 @@
     ]
   },
   {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010313",
+    "name": "GRINCO S.A.",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010105",
+    "name": "Gunvor International B.V.",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010296",
+    "name": "HELLENIC FUELS AND LUBRICANTS SINGLE MEMBER INDUSTRIAL AND COMMERCIAL S.A. \"EKO ABEE\"",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS030610",
+    "name": "HELLENiQ Petroleum S.A.",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS031313",
+    "name": "Inpasa Europe Trading B.V.",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS031328",
+    "name": "INPASA EUROPE TRADING B.V. Genova",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010157",
+    "name": "KUWAIT PETROLEUM ITALIA SPA",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010436",
+    "name": "Kuwait Petroleum Italia SPA (Gala Logistica S.r.l)",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010475",
+    "name": "MAINGREEN ENERGY A LTD",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
     "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS031133",
     "name": "MARGUS",
     "products": [
       "manure"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010371",
+    "name": "MELCO PETROLEUM",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010292",
+    "name": "MOTOR OIL (HELLAS) CORINTH REFINERIES S.A.",
+    "products": [
+      "biodiesel"
     ]
   },
   {
@@ -88,6 +235,20 @@
     "name": "PREAU BIOGAZ",
     "products": [
       "manure"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010369",
+    "name": "Q8Quaser srl",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010291",
+    "name": "REVOIL S.A.",
+    "products": [
+      "biodiesel"
     ]
   },
   {
@@ -133,6 +294,13 @@
     ]
   },
   {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010295",
+    "name": "SILK OIL",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
     "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS031230",
     "name": "Suez Organique",
     "products": [
@@ -144,6 +312,20 @@
     "name": "TEIKEI",
     "products": [
       "manure"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010383",
+    "name": "Verd SA",
+    "products": [
+      "biodiesel"
+    ]
+  },
+  {
+    "url": "https://www.2bsvs.org/scripts/telecharger_certificat.php?certificat=2BS010373",
+    "name": "VPP (Vallier Produits Pétroliers)",
+    "products": [
+      "biodiesel"
     ]
   },
   {

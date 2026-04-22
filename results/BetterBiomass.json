@@ -49,10 +49,18 @@
     ]
   },
   {
+    "url": "https://assets.eu.bettyblocks.com/eu-central-1-2e826c3765f4401c84671a06de961fc7/7ec88453307c4ce7af6f9258f9645792/29472/QSC-20368121-NTA-CT-01_Martens_Green_Power_VOF_Template_Better_Biomass_summary_audit_report_NTA808.pdf",
+    "name": "Martens Green Power V.O.F.",
+    "products": [
+      "wood pellets"
+    ]
+  },
+  {
     "url": "https://assets.eu.bettyblocks.com/eu-central-1-2e826c3765f4401c84671a06de961fc7/7ec88453307c4ce7af6f9258f9645792/32215/NTA8080_NEN_version_2025-07_Template_Better_Biomass_summary_audit_report__A1-v2025_AMS_1318_3.pdf",
     "name": "SFP Zeeland B.V.",
     "products": [
-      "manure"
+      "manure",
+      "biodiesel"
     ]
   },
   {

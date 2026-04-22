@@ -8,7 +8,7 @@ from pipeline import run_pipeline
 
 
 async def main():
-    keywords = ["manure", "wood pellets"]
+    keywords = ["manure", "wood pellets", "biodiesel"]
     
     strategies = [cls(max_concurrency=10) for cls in STRATEGIES.values()]
     
